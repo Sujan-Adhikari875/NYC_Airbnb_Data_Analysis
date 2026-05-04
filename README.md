@@ -88,20 +88,21 @@ A small group of hosts manages multiple listings, indicating market concentratio
 
 # Dashboard Preview
 
-📊 Key Insights
-Demand peaks during summer (especially June)
-Manhattan and Brooklyn dominate listing activity
-Entire homes/apartments have higher demand but limited availability
-Pricing is influenced by seasonality and location
-Review activity strongly correlates with peak seasons
-Market shows signs of host concentration (power hosts)
-💡 Recommendations
-Implement dynamic pricing during peak and off-peak seasons
-Increase listing availability during high-demand months
-Focus investment on high-demand locations
-Encourage diversification of hosts to balance market competition
-Optimize listing types based on demand (entire homes preferred)
-📂 Project Structure
+# Key Insights
+-- Demand peaks during summer (especially June)
+-- Manhattan and Brooklyn dominate listing activity
+--Entire homes/apartments have higher demand but limited availability
+--Pricing is influenced by seasonality and location
+--Review activity strongly correlates with peak seasons
+--Market shows signs of host concentration (power hosts)
+
+ # Recommendations
+- Implement dynamic pricing during peak and off-peak seasons
+- Increase listing availability during high-demand months
+- Focus investment on high-demand locations
+- Encourage diversification of hosts to balance market competition
+-Optimize listing types based on demand (entire homes preferred)
+# Project Structure
 01-data/ — Raw and cleaned datasets
 02-notebooks/ — Data cleaning (Python)
 03-sql/ — SQL analysis queries
@@ -109,7 +110,7 @@ Optimize listing types based on demand (entire homes preferred)
 05-images/ — Dashboard preview image
 insights.md — Detailed insights
 README.md — Project documentation
-🚀 Conclusion
 
+# Conclusion
 The NYC Airbnb market is highly seasonal and location-driven, with peak demand occurring during summer months.
-Data-driven strategies such as dynamic pricing and targeted investment can significantly improve performance in this market.
+Data driven strategies such as dynamic pricing and targeted investment can significantly improve performance in this market.
