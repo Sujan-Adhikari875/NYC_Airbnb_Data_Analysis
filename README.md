@@ -73,6 +73,18 @@ Entire home/apartment listings dominate demand.
 
 # Top Hosts by Listings
 A small group of hosts manages multiple listings, indicating market concentration.
+| host_id   | host_name         | total_listing |
+| --------- | ----------------- | ------------- |
+| 219517861 | Sonder (NYC)      | 327           |
+| 107434423 | Blueground        | 232           |
+| 30283594  | Kara              | 121           |
+| 137358866 | Kazuya            | 103           |
+| 16098958  | Jeremy & Laura    | 96            |
+| 12243051  | Sonder            | 96            |
+| 61391963  | Corporate Housing | 91            |
+| 22541573  | Ken               | 87            |
+| 200380610 | Pranjal           | 65            |
+| 1475015   | Mike              | 52            |
 
 # Dashboard Preview
 
