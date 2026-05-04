@@ -23,10 +23,10 @@ Power BI — Dashboard and data visualization
 - Built an interactive Power BI dashboard for visualization
 # Dashboard Highlights
 - Key Metrics
-- Average Price: 127.51
+- Average Price: 152.72
 - Peak Month: June (6)
-- Total Listings: 379
-- Total Reviews: 12K
+- Total Listings: 49k
+- Total Reviews: 1M
 - Key Visual Insights
 
 # Review Trend by Month
