@@ -22,12 +22,12 @@ Power BI — Dashboard and data visualization
 - Performed SQL-based analysis to extract business insights
 - Built an interactive Power BI dashboard for visualization
 # Dashboard Highlights
-🔹 Key Metrics
+- Key Metrics
 - Average Price: 127.51
 - Peak Month: June (6)
 - Total Listings: 379
 - Total Reviews: 12K
-🔹 Key Visual Insights
+- Key Visual Insights
 
 # Review Trend by Month
 Reviews peak sharply in June, indicating strong seasonal demand.
@@ -89,12 +89,12 @@ A small group of hosts manages multiple listings, indicating market concentratio
 # Dashboard Preview
 
 # Key Insights
--- Demand peaks during summer (especially June)
--- Manhattan and Brooklyn dominate listing activity
---Entire homes/apartments have higher demand but limited availability
---Pricing is influenced by seasonality and location
---Review activity strongly correlates with peak seasons
---Market shows signs of host concentration (power hosts)
+- Demand peaks during summer (especially June)
+ - Manhattan and Brooklyn dominate listing activity
+- Entire homes/apartments have higher demand but limited availability
+- Pricing is influenced by seasonality and location
+- Review activity strongly correlates with peak seasons
+- Market shows signs of host concentration (power hosts)
 
  # Recommendations
 - Implement dynamic pricing during peak and off-peak seasons
@@ -103,13 +103,13 @@ A small group of hosts manages multiple listings, indicating market concentratio
 - Encourage diversification of hosts to balance market competition
 -Optimize listing types based on demand (entire homes preferred)
 # Project Structure
-01-data/ — Raw and cleaned datasets
-02-notebooks/ — Data cleaning (Python)
-03-sql/ — SQL analysis queries
-04-dashboard/ — Power BI dashboard file
-05-images/ — Dashboard preview image
-insights.md — Detailed insights
-README.md — Project documentation
+- 01-data/ — Raw and cleaned datasets
+- 02-notebooks/ — Data cleaning (Python)
+- 03-sql/ — SQL analysis queries
+- 04-dashboard/ — Power BI dashboard file
+- 05-images/ — Dashboard preview image
+- insights.md — Detailed insights
+- README.md — Project documentation
 
 # Conclusion
 The NYC Airbnb market is highly seasonal and location-driven, with peak demand occurring during summer months.
